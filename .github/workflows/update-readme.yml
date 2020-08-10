@@ -11,6 +11,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: FlorianSebille/github-activity-readme@master
+      - uses: FlorianSebille/FlorianSebille@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
