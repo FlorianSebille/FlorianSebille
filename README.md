@@ -51,6 +51,8 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#1](https://github.com//FlorianSebille/FlorianSebille/issues/1) in [FlorianSebille/FlorianSebille](https://github.com//FlorianSebille/FlorianSebille)
+<!--END_SECTION:activity-->
 
 ---
 
