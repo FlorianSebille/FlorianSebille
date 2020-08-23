@@ -38,11 +38,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#13](https://github.com//jamesgeorge007/github-activity-readme/issues/13) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-2. 🗣 Commented on [#20](https://github.com//jamesgeorge007/github-activity-readme/issues/20) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-3. 🎉 Merged PR [#20](https://github.com//jamesgeorge007/github-activity-readme/pull/20) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-4. 🗣 Commented on [#18](https://github.com//jamesgeorge007/github-activity-readme/issues/18) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-5. 🎉 Merged PR [#18](https://github.com//jamesgeorge007/github-activity-readme/pull/18) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+1. undefined
+2. undefined
+3. undefined
+4. undefined
+5. undefined
 <!--END_SECTION:activity-->
 
 ---
