@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Phoebus integration
-- 🌱 I’m currently learning everithings 🤣
+- 🌱 I’m currently learning everything's 🤣
 - 📫 How to reach me: florian.sebille.pro@gmail.com
 - ⚡ Fun fact: I love to talk cinema 🎬
 <!--- 👯 I’m looking to collaborate on ...
